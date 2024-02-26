@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="texto1">@dimen/_22sdp</dimen>
+    <dimen name="texto2">@dimen/_16sdp</dimen>
+
+    <dimen name="layout_width">@dimen/_100sdp</dimen>
+    <dimen name="layout_height">@dimen/_100sdp</dimen>
+
+    <dimen name="cubo2_width">@dimen/_50sdp</dimen>
+    <dimen name="cubo2_height">@dimen/_50sdp</dimen>
+</resources>
